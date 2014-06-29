@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">InstantDropBox</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_msg">Go take a picture!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
